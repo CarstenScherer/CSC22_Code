@@ -2,7 +2,8 @@
 
 This is a collection of m-files related to the paper
 
-C.W. Scherer, **Dissipativity and integral quadratic constraints: Tailored computational robustness tests for  complex interconnections**,
+C.W. Scherer, 
+[**Dissipativity and integral quadratic constraints: Tailored computational robustness tests for  complex interconnections**](https://ieeexplore.ieee.org/document/9781263),
 IEEE Control Systems Magazine 42 (3), 115-139.
 
 [A slightly corrected version of this paper is also available on arXiv.](https://doi.org/10.48550/arXiv.2105.07401)
