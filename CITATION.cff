@@ -1,0 +1,10 @@
+odcff-version: 1.1.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Scherer   
+    given-names: Carsten W.
+    orcid: "https://https://orcid.org/0000-0001-8856-2697"
+title: "CarstenScherer/Robust-invariance-with-integral-quadratic-constraints"
+doi: https://zenodo.org/badge/latestdoi/692129830
+date-released: 2023-09-19
+            
